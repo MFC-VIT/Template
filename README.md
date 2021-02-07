@@ -20,7 +20,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/company/mozilla-firefox-club-vit/mycompany/]
 
 
 
@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://user-images.githubusercontent.com/59278577/107158857-bebbb580-69b2-11eb-9e80-00dabf5e4812.png" alt="Logo" width="50%" height="400">
+    <img src="https://user-images.githubusercontent.com/59278577/107159556-dc8b1980-69b6-11eb-80d3-e4ba41546ae5.png" alt="Logo">
   </a>
 
   <h3 align="center">Project Name</h3>
