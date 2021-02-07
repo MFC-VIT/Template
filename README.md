@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/59278577/107158857-bebbb580-69b2-11eb-9e80-00dabf5e4812.png" alt="Logo" width="50%" height="400">
   </a>
 
   <h3 align="center">Project Name</h3>
