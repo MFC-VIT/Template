@@ -35,7 +35,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/th3c0d3br34ker/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/59278577/107159556-dc8b1980-69b6-11eb-80d3-e4ba41546ae5.png" alt="Logo">
   </a>
 
   <h3 align="center">project_title</h3>
