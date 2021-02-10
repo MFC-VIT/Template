@@ -34,7 +34,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/th3c0d3br34ker/repo_name">
+  <a href="https://github.com/MFC-VIT/repo_name">
     <img src="https://user-images.githubusercontent.com/59278577/107159556-dc8b1980-69b6-11eb-80d3-e4ba41546ae5.png" alt="Logo">
   </a>
 
@@ -43,14 +43,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/th3c0d3br34ker/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MFC-VIT/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/th3c0d3br34ker/repo_name">View Demo</a>
+    <a href="https://github.com/MFC-VIT/repo_name">View Demo</a>
     ·
-    <a href="https://github.com/th3c0d3br34ker/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/MFC-VIT/repo_name/issues">Report Bug</a>
     ·
-    <a href="https://github.com/th3c0d3br34ker/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/MFC-VIT/repo_name/issues">Request Feature</a>
   </p>
 </p>
 
@@ -129,7 +129,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/th3c0d3br34ker/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/MFC-VIT/repo_name/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
